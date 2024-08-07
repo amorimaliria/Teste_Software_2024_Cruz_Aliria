@@ -14,4 +14,5 @@ O projeto consiste em aplicar uma solução dada para uma das perguntas do site 
 
 ## Tutorial
 
+Tutorial Completo em pdf
 
