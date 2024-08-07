@@ -14,5 +14,6 @@ O projeto consiste em aplicar uma solução dada para uma das perguntas do site 
 
 ## Tutorial
 
-Tutorial Completo em pdf
+Tutorial Completo em pdf:
+https://github.com/amorimaliria/Teste_Software_2024_Cruz_Aliria/blob/main/Artefatos/Aliria_de_Santana_Atividade1.pdf
 
